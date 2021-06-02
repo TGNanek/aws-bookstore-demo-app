@@ -18,7 +18,7 @@ export default class BestSellers extends React.Component<BestSellersProps, BestS
 
     this.state = {
       isLoading: true,
-      ooks: []
+      books: []
     };
   }
 
