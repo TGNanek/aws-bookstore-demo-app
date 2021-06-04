@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/react": "^11.2.7",
     "@types/graphql": "^14.0.5",
     "@types/jest": "^23.3.10",
     "@types/node": "^10.12.12",

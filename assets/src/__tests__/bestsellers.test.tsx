@@ -4,7 +4,7 @@ import {render, screen} from '@testing-library/react';
 import BestSellers from '../modules/bestSellers/BestSellers';
 
 
-test('Heading of best sellers component shows text correctly', function () {
+test('Heading of best sellers component shows text correctly', () => {
     window.alert = jest.fn(() => ({}));
     const div = document.createElement('div');
     render(<BestSellers/>);

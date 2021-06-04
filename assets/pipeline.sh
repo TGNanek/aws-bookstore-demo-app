@@ -17,7 +17,7 @@ else
 fi
 npm install
 npm run build
-cd src/__tests__
+# cd src/__tests__
 npm run test
 #  cd ../../../
 #  git add .
